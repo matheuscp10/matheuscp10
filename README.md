@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matheuscp10
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Computer and Informatic engineering
+- 🌱 I’m currently learning Computer and Informatic Engineering
 - 💞️ I’m looking to collaborate on works
 - 📫 How to reach me matheusp@ua.pt
 
